@@ -1,0 +1,17 @@
+
+  .hangmanPicture{
+    height: 300px;
+  }
+  .jogo-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+  }
+  .bodyContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: cursive;
+
+  }
